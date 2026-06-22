@@ -1,6 +1,5 @@
 # 💫 About Me:
-im currently persuinng full stack developer and i have technical skillls like html css js typescript bootsrap node js express js mongo db c langaue c++ and etc
-
+Hi 👋, I'm Dharmik Ragiya, a passionate Full Stack Developer from India. I'm currently pursuing a Bachelor of Computer Applications (BCA) while completing Full Stack Development training. I enjoy building responsive and user-friendly web applications using modern web technologies and continuously improving my problem-solving skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/dharmik-ragiya/  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmik161616@gmail.com) 
