@@ -18,5 +18,5 @@ Passionate Full Stack Web Developer skilled in JavaScript, TypeScript, Node.js, 
 https://github.com/dharmik-rabari-03/Javascript
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dharmik-rabari-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
