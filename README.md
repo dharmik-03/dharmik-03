@@ -17,120 +17,80 @@
 ---
 # <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30"/> About Me
 
-<table>
+<div align="center">
+
+## Hi 👋 I'm Dharmik Ragiya
+
+**Full Stack Web Developer** • **Backend Enthusiast** • **MERN Stack Developer**
+
+</div>
+
+<table align="center">
 <tr>
+<td>
 
-<td width="55%" valign="top">
+<img src="https://img.icons8.com/fluency/20/rocket.png"/> Building modern web applications
 
-## Hi, I'm Dharmik Ragiya 👋
+<img src="https://img.icons8.com/fluency/20/server.png"/> Backend & REST API Development
 
-<img src="https://img.icons8.com/fluency/20/rocket.png"/> Full Stack Web Developer
+<img src="https://img.icons8.com/fluency/20/source-code.png"/> JavaScript • TypeScript • React
 
-<img src="https://img.icons8.com/fluency/20/server.png"/> Backend Enthusiast
+<img src="https://img.icons8.com/fluency/20/database.png"/> MongoDB • Express • Node.js
 
-<img src="https://img.icons8.com/fluency/20/source-code.png"/> MERN Stack Developer
+</td>
 
-<img src="https://img.icons8.com/fluency/20/graduation-cap.png"/> Bachelor of Computer Applications (BCA)
+<td>
 
-<img src="https://img.icons8.com/fluency/20/book.png"/> Learning Docker • AWS • Redis • Microservices
+<img src="https://img.icons8.com/fluency/20/graduation-cap.png"/> Bachelor of Computer Applications
+
+<img src="https://img.icons8.com/fluency/20/book.png"/> Learning Docker • AWS • Redis
 
 <img src="https://img.icons8.com/fluency/20/globe-earth.png"/> Open Source Learner
 
-<img src="https://img.icons8.com/fluency/20/marker.png"/> India
+<img src="https://img.icons8.com/fluency/20/briefcase.png"/> Looking for Full Stack Opportunities
 
-<img src="https://img.icons8.com/fluency/20/briefcase.png"/> Open to Full Stack Opportunities
-
-</td>
-<td width="45%" align="center">
-<img width="420" src="https://svgshare.com/i/12mM.svg" alt="Developer"/>
 </td>
 
 </tr>
 </table>
+<br>
 
-# <img src="https://img.icons8.com/fluency/48/share.png" width="30"/> Connect With Me
-<p align="center">
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"/> Tech Arsenal
 
-<a href="https://github.com/dharmik-rabari-03">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
+<div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail"/>
-</a>
+| Frontend | Backend | Database | Tools |
+|:--:|:--:|:--:|:--:|
+| <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/> | <img src="https://skillicons.dev/icons?i=nodejs,express"/> | <img src="https://skillicons.dev/icons?i=mongodb"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin"/>
-</a>
+</div>
 
-</p>
+<br>
 
----
+<div align="center">
 
-# <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"/> Tech Stack
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### <img src="https://img.icons8.com/fluency/48/web-design.png" width="26"/> Frontend
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap"/>
-</p>
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge"/>
 
-### <img src="https://img.icons8.com/fluency/48/server.png" width="26"/> Backend
+<img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-<img src="https://img.shields.io/badge/JWT-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST_API-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Socket.io-111827?style=flat-square&logo=socketdotio"/>
-</p>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio"/>
 
-### <img src="https://img.icons8.com/fluency/48/database.png" width="26"/> Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-### <img src="https://img.icons8.com/fluency/48/source-code.png" width="26"/> Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp"/>
-</p>
-
-### <img src="https://img.icons8.com/fluency/48/toolbox.png" width="26"/> Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon"/>
-</p>
+</div>
 
 
-### <img src="https://img.icons8.com/fluency/48/rocket.png" width="26"/> Deployment
 
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify"/>
-<img src="https://img.shields.io/badge/Render-111827?style=flat-square"/>
-</p>
-
-
----
 
 # <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30"/> GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dharmik-rabari-03&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dharmik-rabari-03&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=dharmik-rabari-03&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik-rabari-03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # <img src="https://img.icons8.com/fluency/48/dashboard-layout.png" width="30"/> Profile Summary
 
@@ -188,6 +148,5 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0F172A,20:1E1B4B,40:312E81,60:2563EB,80:06B6D4,100:EC4899&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=32"/>
 
-### ⭐ If you like my work, don't forget to star my repositories.
 
 </div>
