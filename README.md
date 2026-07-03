@@ -15,45 +15,40 @@
 </div>
 
 ---
-
-# ✦ About Me
+# <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30"/> About Me
 
 <table>
 <tr>
-<td width="60%">
 
-### 👨‍💻 Full Stack Web Developer
+<td width="55%" valign="top">
 
-🚀 Passionate about building modern full stack applications
+## Hi, I'm Dharmik Ragiya 👋
 
-🎓 Bachelor of Computer Applications (BCA)
+<img src="https://img.icons8.com/fluency/20/rocket.png"/> Full Stack Web Developer
 
-⚡ Backend Development Enthusiast
+<img src="https://img.icons8.com/fluency/20/server.png"/> Backend Enthusiast
 
-🌱 Currently learning **DevOps & Cloud Technologies**
+<img src="https://img.icons8.com/fluency/20/source-code.png"/> MERN Stack Developer
 
-💻 Open Source Learner
+<img src="https://img.icons8.com/fluency/20/graduation-cap.png"/> Bachelor of Computer Applications (BCA)
 
-📍 India
+<img src="https://img.icons8.com/fluency/20/book.png"/> Learning Docker • AWS • Redis • Microservices
 
-🎯 Looking for **Full Stack Developer Opportunities**
+<img src="https://img.icons8.com/fluency/20/globe-earth.png"/> Open Source Learner
 
-💡 I enjoy solving real-world problems with scalable web applications.
+<img src="https://img.icons8.com/fluency/20/marker.png"/> India
 
-</td>
-
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharmik-rabari-03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+<img src="https://img.icons8.com/fluency/20/briefcase.png"/> Open to Full Stack Opportunities
 
 </td>
+<td width="45%" align="center">
+<img width="420" src="https://svgshare.com/i/12mM.svg" alt="Developer"/>
+</td>
+
 </tr>
 </table>
 
----
-
-# 🌐 Connect With Me
-
+# <img src="https://img.icons8.com/fluency/48/share.png" width="30"/> Connect With Me
 <p align="center">
 
 <a href="https://github.com/dharmik-rabari-03">
@@ -72,15 +67,15 @@
 
 ---
 
-# ⚒ Tech Stack
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"/> Tech Stack
 
-### 🎨 Frontend
+### <img src="https://img.icons8.com/fluency/48/web-design.png" width="26"/> Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap"/>
 </p>
 
-### ⚙ Backend
+### <img src="https://img.icons8.com/fluency/48/server.png" width="26"/> Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
@@ -89,51 +84,37 @@
 <img src="https://img.shields.io/badge/Socket.io-111827?style=flat-square&logo=socketdotio"/>
 </p>
 
-### 🗄 Database
+### <img src="https://img.icons8.com/fluency/48/database.png" width="26"/> Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
-### 💻 Languages
+### <img src="https://img.icons8.com/fluency/48/source-code.png" width="26"/> Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,c,cpp"/>
 </p>
 
-### 🛠 Tools
+### <img src="https://img.icons8.com/fluency/48/toolbox.png" width="26"/> Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon"/>
 </p>
 
-### 🚀 Deployment
+
+### <img src="https://img.icons8.com/fluency/48/rocket.png" width="26"/> Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,netlify"/>
 <img src="https://img.shields.io/badge/Render-111827?style=flat-square"/>
 </p>
 
----
-
-# ✨ Skills
-
-| Skill                 | Level |
-| --------------------- | ----- |
-| ⚛ React               | ⭐⭐⭐⭐☆ |
-| 🟢 Node.js            | ⭐⭐⭐⭐⭐ |
-| 🚀 Express.js         | ⭐⭐⭐⭐⭐ |
-| 🍃 MongoDB            | ⭐⭐⭐⭐☆ |
-| 🔐 JWT Authentication | ⭐⭐⭐⭐⭐ |
-| ⚡ REST APIs           | ⭐⭐⭐⭐⭐ |
-| 📦 Git & GitHub       | ⭐⭐⭐⭐☆ |
-| 💻 JavaScript         | ⭐⭐⭐⭐⭐ |
-| 📘 TypeScript         | ⭐⭐⭐⭐☆ |
 
 ---
 
-# 📈 GitHub Analytics
+# <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30"/> GitHub Analytics
 
 <p align="center">
 
@@ -151,7 +132,7 @@
 
 ---
 
-# 📊 Profile Summary
+# <img src="https://img.icons8.com/fluency/48/dashboard-layout.png" width="30"/> Profile Summary
 
 <p align="center">
 
@@ -171,7 +152,7 @@
 
 ---
 
-# 📈 Activity Graph
+# <img src="https://img.icons8.com/fluency/48/line-chart.png" width="30"/> Activity Graph
 
 <p align="center">
 
@@ -181,61 +162,19 @@
 
 ---
 
-# 🐍 Contribution Snake
+
+
+# <img src="https://img.icons8.com/fluency/48/calendar.png" width="30"/> Contribution Calendar
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/dharmik-rabari-03/dharmik-rabari-03/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://ghchart.rshah.org/2563EB/dharmik-rabari-03"/>
 </p>
 
 ---
 
-# 📅 Contribution Calendar
 
-<p align="center">
-
-<img src="https://ghchart.rshah.org/58A6FF/dharmik-rabari-03"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-```text
-🐳 Docker
-☁ AWS
-🏗 System Design
-⚡ Redis
-🔷 Microservices
-❤️ Open Source
-```
-
----
-
-# 🚀 Featured Projects
-
-| Project                  | Description                          | Tech                        |
-| ------------------------ | ------------------------------------ | --------------------------- |
-| 🔐 Authentication System | JWT Authentication with Google OAuth | Node.js • Express • MongoDB |
-| 🌐 Full Stack Web App    | Modern MERN Application              | React • Node.js • MongoDB   |
-| 💬 Real-Time Chat App    | Socket.io Based Chat Application     | Node.js • Socket.io         |
-| 📦 REST API              | Secure CRUD Backend APIs             | Express • JWT               |
-
----
-
-# 🌍 Open Source Goals
-
-* ✅ Contribute to Open Source Projects
-* ✅ Improve Backend Architecture Skills
-* ✅ Build Scalable MERN Applications
-* ✅ Learn Cloud & DevOps
-* ✅ Write Clean & Maintainable Code
-
----
-
-# 💬 Random Dev Quote
+# <img src="https://img.icons8.com/fluency/48/quote.png" width="30"/> Random Dev Quote
 
 <p align="center">
 
