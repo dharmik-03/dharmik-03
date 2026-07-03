@@ -1,20 +1,17 @@
-# <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,20:1E1B4B,40:312E81,60:2563EB,80:06B6D4,100:EC4899&text=Dharmik%20Ragiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,35:0F1E3D,65:1E3A8A,100:2563EB&text=Dharmik%20Ragiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descColor=8AC7FF&animation=fadeIn"/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Node.js+Developer;React+Developer;Backend+Enthusiast;Open+Source+Learner;Problem+Solver;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+Web+Developer;💻+MERN+Stack+Developer"/>
 </p>
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dharmik-rabari-03&style=for-the-badge&color=0ea5e9"/>
-<img src="https://img.shields.io/github/followers/dharmik-rabari-03?style=for-the-badge&logo=github&color=7c3aed"/>
-<img src="https://img.shields.io/github/stars/dharmik-rabari-03?style=for-the-badge&logo=github&color=06b6d4"/>
+<img src="https://komarev.com/ghpvc/?username=dharmik-rabari-03&style=for-the-badge&color=ff0080"/>
+<img src="https://img.shields.io/github/followers/dharmik-rabari-03?style=for-the-badge&logo=github&logoColor=white&color=6C63FF"/>
+<img src="https://img.shields.io/github/stars/dharmik-rabari-03?style=for-the-badge&logo=github&logoColor=white&color=00C9A7"/>
 </p>
 
 </div>
 
----
 # <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30"/> About Me
 
 <div align="center">
@@ -143,10 +140,8 @@
 </p>
 
 ---
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0F172A,20:1E1B4B,40:312E81,60:2563EB,80:06B6D4,100:EC4899&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=32"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0D1117,35:0F1E3D,65:1E3A8A,100:2563EB&text=Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
 
 </div>
