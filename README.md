@@ -93,17 +93,17 @@
 
 <p align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmik-rabari-03&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmik-03&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharmik-rabari-03&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharmik-03&theme=tokyonight"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmik-rabari-03&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmik-03&theme=tokyonight"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dharmik-rabari-03&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dharmik-03&theme=tokyonight"/>
 
 </p>
 
@@ -113,7 +113,7 @@
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dharmik-rabari-03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=7c3aed&point=ffffff"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dharmik-03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=7c3aed&point=ffffff"/>
 
 </p>
 
@@ -125,7 +125,7 @@
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/2563EB/dharmik-rabari-03"/>
+<img src="https://ghchart.rshah.org/2563EB/dharmik-03"/>
 </p>
 
 ---
