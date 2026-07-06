@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+Web+Developer;💻+MERN+Stack+Developer"/>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dharmik-rabari-03&style=for-the-badge&color=ff0080"/>
-<img src="https://img.shields.io/github/followers/dharmik-rabari-03?style=for-the-badge&logo=github&logoColor=white&color=6C63FF"/>
-<img src="https://img.shields.io/github/stars/dharmik-rabari-03?style=for-the-badge&logo=github&logoColor=white&color=00C9A7"/>
+<img src="https://komarev.com/ghpvc/?username=dharmik-03&style=for-the-badge&color=ff0080"/>
+<img src="https://img.shields.io/github/followers/dharmik-3?style=for-the-badge&logo=github&logoColor=white&color=6C63FF"/>
+<img src="https://img.shields.io/github/stars/dharmik-03?style=for-the-badge&logo=github&logoColor=white&color=00C9A7"/>
 </p>
 
 </div>
@@ -84,7 +84,7 @@
 # <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30"/> GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dharmik-rabari-03&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dharmik-03&theme=tokyonight&hide_border=true" />
 </p>
 
 
