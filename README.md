@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,35:0F1E3D,65:1E3A8A,100:2563EB&text=Dharmik%20Ragiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descColor=8AC7FF&animation=fadeIn"/>
@@ -131,8 +129,6 @@
 </p>
 
 ---
-
-
 # <img src="https://img.icons8.com/fluency/48/quote.png" width="30"/> Random Dev Quote
 
 <p align="center">
